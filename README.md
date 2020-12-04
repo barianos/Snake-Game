@@ -16,4 +16,4 @@ To visit the deployed site click the following link REMEMBER TO INSERT LINK
 
 ## Preview
 
-![snake](\snakeScreenshot.png)
+![snake](/snakeScreenshot.png)
