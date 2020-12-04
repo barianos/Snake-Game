@@ -1,18 +1,19 @@
 # Snake Game
 
 ## About
-This is a snake game created in html. The goal of the game is for the snake to capture the apple. Movemnt is with arrow keys.
+This is a snake game created in html. The goal of the game is for the snake to capture the apple. Move around using arrow keys.
 
-## Getting Started
-To visit the deployed site click the following link REMEMBER TO INSERT LINK
+## Disclaimer
+The code is not mine, although it is open souce and I cannot trace it back to the initial creator.
+I was familiarized with the project on an unrelated course, but though it would be fun to keep the code.
 
 ## Build With
 * HTML
 * CSS
 * JavaScript
 
-## Sole Contributor
-* Anastasios Barianos (https://github.com/barianos)
+## Getting Started
+Download the code and run the index.html in your browser
 
 ## Preview
 
